@@ -66,3 +66,15 @@ sendMsgHandler({
 ## Textarea
 
 简单的输入组件，通过 `sendMsgHandler` 方法发送消息；
+
+
+# 查看效果
+
+```shell
+npm install
+```
+```shell
+npm start
+```
+
+浏览器打开 `http://localhost:8080/`
